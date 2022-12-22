@@ -23,6 +23,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body{
+  min-width: 400px;
+}
+
 body,
 button,
 input,
